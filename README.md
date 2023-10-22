@@ -10,3 +10,5 @@ https://universe.roboflow.com/kios-alpsc/rescuenet-yolo8/browse?queryText=&pageS
 
 The given Dataset
 https://eod-grss-ieee.com/dataset-detail/OWlUN0k3T0tnNVo2Rk5mNjFxTkhwZz09
+
+Contributors:
