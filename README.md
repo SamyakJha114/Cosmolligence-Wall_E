@@ -1,4 +1,5 @@
-# Cosmolligence-Wall_E
+# Cosmolligence
+## Team Wall_E
 
 ## Datasets used during the project :- 
 
